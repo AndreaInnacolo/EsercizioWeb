@@ -8,7 +8,7 @@ public class Controller {
     public Controller(long id, String content) {
         this.id = id;
         this.content = content;
-    } //bho
+    }
 
     public long getId() {
         return id;
