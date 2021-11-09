@@ -1,4 +1,4 @@
-package com.company.EsercizioWeb;
+package com.company.EsercizioWeb.controller;
 
 public class Controller {
 
