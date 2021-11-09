@@ -1,4 +1,4 @@
-package com.company.EsercizioWeb.controller;
+package login;
 
 import java.io.IOException;
 import java.io.PrintWriter;
