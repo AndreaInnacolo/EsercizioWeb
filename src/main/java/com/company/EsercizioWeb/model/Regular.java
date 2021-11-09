@@ -28,5 +28,5 @@ public class Regular {
     public Priority getLevel() {
         return level;
     }
-    
+
 }

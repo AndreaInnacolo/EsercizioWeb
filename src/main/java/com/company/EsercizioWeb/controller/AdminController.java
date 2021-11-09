@@ -1,7 +1,6 @@
 package com.company.EsercizioWeb.controller;
 
-public class AdminController 
-{
+public class AdminController {
 	
 	
 
