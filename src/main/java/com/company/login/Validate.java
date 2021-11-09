@@ -1,4 +1,4 @@
-package login;
+package com.company.login;
 
 import java.sql.*;
 
